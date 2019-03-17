@@ -14,3 +14,4 @@ def current_player(board)
     puts "X"
   end
 end
+end
